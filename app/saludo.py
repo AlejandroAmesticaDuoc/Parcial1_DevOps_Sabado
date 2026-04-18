@@ -3,4 +3,4 @@ def saludar(nombre: str = "Mundo") -> str:
 
 
 if __name__ == "__main__":
-    print(saludar("mun1do"))
+    print(saludar("mundo"))
